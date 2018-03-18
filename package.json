@@ -1,0 +1,24 @@
+{
+  "name": "fswd",
+  "version": "1.0.0",
+  "description": "full stack web developer course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagaiglazner/fswd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagaiglazner/fswd/issues"
+  },
+  "homepage": "https://github.com/hagaiglazner/fswd#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
